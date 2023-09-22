@@ -1,0 +1,15 @@
+/*  */
+
+header{
+    border: 20px solid red;
+    color: blue;
+    font-size: 20px;
+}
+
+img{
+    border: solid 5px orange;
+}
+
+h1{
+    color: violet;
+}
